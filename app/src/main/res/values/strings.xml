@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Floor Plans</string>
+    <string name="todoq">TODOQ</string>
+    <string name="todow">TODOW</string>
+    <string name="todoe">TODOE</string>
+    <string name="todor">TODOR</string>
+    <string name="todot">TODOT</string>
+    <string name="todoy">TODOY</string>
+</resources>
